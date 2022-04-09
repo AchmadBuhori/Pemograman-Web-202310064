@@ -1,0 +1,21 @@
+span.blue{
+    background-color: aqua;
+}
+
+span.green{
+    background-color: rgb(57, 255, 57);
+}
+
+span.purple{
+    background-color: rgb(255, 68, 255);
+}
+
+header{
+    font-size: 250%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+span.head{
+    width: auto;
+}
